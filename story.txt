@@ -1,0 +1,10 @@
+There once was a robot named Adelson. He was assigned the job of biological field research
+upon creation. This meant that he was designed to roam and search the lands for any sign of
+remaining life; after the war nearly all life was eliminated. This left the extremely self
+sufficient robots without leadership. In an attempt to restructure earth to it's original
+form, the robots created the Robotic Board and began manufacturing more robots with 
+specific jobs. Adelson was manufactured with solar panels in an attempt to continually 
+search for biological life, however one issue arose: the dirt and grime build-up on his 
+panels prevented him from recharging. The Robotic Board then sent a cleaner-bot, Grace,
+to help him on his adventure. The two set off for Sector 110010000, or as humans called it,
+Chicago.
