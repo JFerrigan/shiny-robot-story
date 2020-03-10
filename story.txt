@@ -8,3 +8,8 @@ search for biological life, however one issue arose: the dirt and grime build-up
 panels prevented him from recharging. The Robotic Board then sent a cleaner-bot, Grace,
 to help him on his adventure. The two set off for Sector 110010000, or as humans called it,
 Chicago.
+
+Humanity had nearly mastered AI before the war, and now millions of intelligent robots wandered 
+the Earth aimlessly. Unfortunately, this meant that, even though humanity was almost gone, there 
+was still traffic in Chicago. Literally all the time. And so, Adelson and Grace found themselves
+in the midst of classic Chicago gridlock  when they arrived one bright Sunday morning.
